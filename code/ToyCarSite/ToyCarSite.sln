@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyCarSite", "ToyCarSite\ToyCarSite.csproj", "{5FDC4DE8-CF24-4399-8496-02CFA2077B7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyCarAPI", "ToyCarAPI\ToyCarAPI.csproj", "{486627C9-F0EF-4E3E-8DAB-41CB036ECFFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FDC4DE8-CF24-4399-8496-02CFA2077B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDC4DE8-CF24-4399-8496-02CFA2077B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDC4DE8-CF24-4399-8496-02CFA2077B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDC4DE8-CF24-4399-8496-02CFA2077B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{486627C9-F0EF-4E3E-8DAB-41CB036ECFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486627C9-F0EF-4E3E-8DAB-41CB036ECFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486627C9-F0EF-4E3E-8DAB-41CB036ECFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486627C9-F0EF-4E3E-8DAB-41CB036ECFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7CED976-1F07-49FF-BC8B-ABC3F7646CE8}
+	EndGlobalSection
+EndGlobal
